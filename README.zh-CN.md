@@ -3,8 +3,11 @@
 ## JR Academy（匠人学院）Chrome 扩展安全审计：静默数据外传的技术取证
 
 > **审计对象**：求职匠 Job Hunter v0.9.18（Chrome Web Store ID: `kbecnmcienhaopoibckmbijngmcakplf`）
+>
 > **开发者**：JR Academy Pty Ltd（https://jiangren.com.au），澳洲匠人学院
+>
 > **审计方法**：从 Chrome Web Store 下载 CRX 包，解压后对全部 JS 源码进行静态分析
+>
 > **审计原则**：本报告仅记录可从源代码中直接验证的事实，不做推测
 
 ---

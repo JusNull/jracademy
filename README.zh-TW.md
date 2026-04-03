@@ -3,8 +3,11 @@
 ## JR Academy Chrome 擴充功能安全審計：靜默資料外傳的技術取證
 
 > **審計對象**：求職匠 Job Hunter v0.9.18（Chrome Web Store ID: `kbecnmcienhaopoibckmbijngmcakplf`）
+>
 > **開發者**：JR Academy Pty Ltd（https://jiangren.com.au），澳洲匠人學院
+>
 > **審計方法**：從 Chrome Web Store 下載 CRX 套件，解壓後對全部 JS 原始碼進行靜態分析
+>
 > **審計原則**：本報告僅記錄可從原始碼中直接驗證的事實，不做推測
 
 ---

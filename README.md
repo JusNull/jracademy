@@ -3,8 +3,11 @@
 ## A Technical Forensic Analysis of JR Academy's Chrome Extension
 
 > **Audit target**: 求职匠 Job Hunter v0.9.18 (Chrome Web Store ID: `kbecnmcienhaopoibckmbijngmcakplf`)
+>
 > **Developer**: JR Academy Pty Ltd (https://jiangren.com.au)
+>
 > **Method**: Static analysis of all JavaScript source files extracted from the publicly available CRX package
+>
 > **Principle**: This report documents only facts directly verifiable from the source code. No speculation.
 
 ---
