@@ -11,7 +11,7 @@ This directory contains the original Chrome extension package and key source fil
 | Source | Live URL | Wayback Machine Archive |
 |--------|----------|------------------------|
 | JR Academy Privacy Policy | https://jiangren.com.au/privacy-policy | [2026-04-03 snapshot](https://web.archive.org/web/20260403061621/https://jiangren.com.au/privacy-policy) |
-| Chrome Web Store Listing | https://chromewebstore.google.com/detail/kbecnmcienhaopoibckmbijngmcakplf | Pending |
+| Chrome Web Store Listing | https://chromewebstore.google.com/detail/kbecnmcienhaopoibckmbijngmcakplf | [2026-04-03 snapshot](https://web.archive.org/web/20260403061642/https://chromewebstore.google.com/detail/%E6%B1%82%E8%81%8C%E5%8C%A0-job-hunter/kbecnmcienhaopoibckmbijngmcakplf) |
 
 These archives preserve the state of external sources at the time of the audit, in case they are later modified or removed.
 
