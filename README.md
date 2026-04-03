@@ -364,6 +364,16 @@ This analysis was conducted through static code review of a publicly available C
 
 ---
 
+## Repository Availability Statement
+
+This repository will **not** be voluntarily deleted or made private by its maintainer. If this repository becomes inaccessible at any point, it should be assumed that this is due to **external pressure, legal threats, or other force majeure** — not a voluntary retraction of the findings.
+
+The author stands behind every technical fact documented in this report. All findings are independently verifiable using the evidence and scripts provided.
+
+Readers are encouraged to **fork this repository** to ensure the information remains available.
+
+---
+
 ## License
 
 This report is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material with attribution.
