@@ -1,0 +1,7 @@
+title: "JR Academy Chrome Extension Security Audit"
+description: "JR Academy (匠人学院) Chrome extension 求职匠 Job Hunter silently uploads every LinkedIn profile you visit to api.jiangren.com.au. Full source code forensic analysis with reproducible evidence."
+url: "https://jusnull.github.io"
+baseurl: "/jracademy"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
