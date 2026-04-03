@@ -21,7 +21,7 @@ JR Academy's own privacy policy explicitly states:
 
 The code proves otherwise.
 
-**[中文版 / Chinese Version](README.zh-CN.md)**
+**[简体中文版](README.zh-CN.md)** | **[繁體中文版](README.zh-TW.md)**
 
 ---
 
