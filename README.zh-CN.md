@@ -199,7 +199,7 @@ async function checkAlumni(linkedinUrl, name) {
 
 ## 3. 隐私政策与实际行为的直接矛盾
 
-JR Academy 的隐私政策（最后更新日期 2026 年 3 月 16 日）做出了以下声明，每一条都被代码直接推翻。
+JR Academy 的隐私政策（最后更新日期 2026 年 3 月 16 日，[Wayback Machine 存档](https://web.archive.org/web/20260403061621/https://jiangren.com.au/privacy-policy)）做出了以下声明，每一条都被代码直接推翻。
 
 ### 矛盾一：「不被动监控」
 

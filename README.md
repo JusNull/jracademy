@@ -205,7 +205,7 @@ This is triggered automatically by the Content Script — **no user action requi
 
 ## 3. The Privacy Policy Says the Exact Opposite
 
-JR Academy's privacy policy (last updated 16 March 2026) makes the following claims. Each is directly contradicted by the code.
+JR Academy's privacy policy (last updated 16 March 2026, [archived copy](https://web.archive.org/web/20260403061621/https://jiangren.com.au/privacy-policy)) makes the following claims. Each is directly contradicted by the code.
 
 ### Contradiction 1: "No Passive Monitoring"
 

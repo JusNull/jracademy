@@ -6,6 +6,15 @@ This directory contains the original Chrome extension package and key source fil
 
 2026-04-03
 
+## Archived External Sources
+
+| Source | Live URL | Wayback Machine Archive |
+|--------|----------|------------------------|
+| JR Academy Privacy Policy | https://jiangren.com.au/privacy-policy | [2026-04-03 snapshot](https://web.archive.org/web/20260403061621/https://jiangren.com.au/privacy-policy) |
+| Chrome Web Store Listing | https://chromewebstore.google.com/detail/kbecnmcienhaopoibckmbijngmcakplf | Pending |
+
+These archives preserve the state of external sources at the time of the audit, in case they are later modified or removed.
+
 ## Extension Version
 
 0.9.18 (as declared in manifest.json)

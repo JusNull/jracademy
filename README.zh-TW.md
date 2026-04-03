@@ -205,7 +205,7 @@ async function _e(e,t){const a=I.get(e);if(a)return a;try{const o=await m(),n=ne
 
 ## 3. 隱私政策與實際行為的直接矛盾
 
-JR Academy 的隱私政策（最後更新日期 2026 年 3 月 16 日）做出了以下聲明，每一條都被程式碼直接推翻。
+JR Academy 的隱私政策（最後更新日期 2026 年 3 月 16 日，[Wayback Machine 存檔](https://web.archive.org/web/20260403061621/https://jiangren.com.au/privacy-policy)）做出了以下聲明，每一條都被程式碼直接推翻。
 
 ### 矛盾一：「不被動監控」
 
